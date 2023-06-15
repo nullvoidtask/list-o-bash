@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# this shows a reminder on the terminal every 3 secomds
+# until the condition is met pressing a key on the keyboard
+# once the key is pressed script exit done
+
 echo "if a key is not pressed a reminder every 3 seconds"
 
 while [ true ]
